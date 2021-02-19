@@ -19,3 +19,11 @@ At this stage of my life, I set myself the task of becoming a professional front
 - php
 - JavaScript
 - Git
+
+## Code examples
+
+[GitHub](https://github.com/SpiriT-L 'GitHub')
+
+## Experince and education
+
+- Minsk Institute of Management (Minsk Innovation University) - Economics and Management
