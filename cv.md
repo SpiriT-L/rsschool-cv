@@ -27,3 +27,11 @@ At this stage of my life, I set myself the task of becoming a professional front
 ## Experince and education
 
 - Minsk Institute of Management (Minsk Innovation University) - Economics and Management
+
+## Courses:
+
+- Rolling-Scopes-School - JavaScript Development 2021q1
+
+## English
+
+- A1
