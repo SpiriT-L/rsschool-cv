@@ -48,7 +48,7 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
-.bloc-icon {
+.block-icon {
   flex-direction: row;
   text-align: center;
 }
@@ -63,4 +63,18 @@ ul.icon li {
 li img {
   width: 10%;
   margin-right: 20px;
+  cursor: pointer;
+}
+.block_footer {
+  display: inline-block;
+  margin: 20px;
+}
+.block_footer a {
+  text-decoration: none;
+  color: black;
+}
+.block_footer img {
+  width: 100px;
+  display: inline-block;
+  padding-left: 50px;
 }
