@@ -3,13 +3,19 @@ body {
   display: block;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  font-size: 14px;
+  font-size: 16px;
   margin: 0;
+  font-weight: 400;
 }
 .conteiner {
   max-width: 1012px;
   margin-right: auto;
   margin-left: auto;
+}
+.block-head {
+  display: flex;
+  height: auto;
+  border-bottom: 1px solid #eaecef;
 }
 .block {
   display: block;
@@ -20,13 +26,16 @@ body {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 h1 {
-  border-bottom: 1px solid #eaecef;
   font-size: 2em;
   font-weight: 600;
   padding-bottom: 0.3em;
+  padding-top: 22px;
 }
 h2 {
   border-bottom: 1px solid #eaecef;
@@ -35,20 +44,13 @@ h2 {
   padding-bottom: 0.3em;
 }
 
-p {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-}
-
 a {
   color: #0366d6;
   text-decoration: none;
   cursor: pointer;
+  font-weight: 600;
 }
-.bloc-icon {
+.block-icon {
   flex-direction: row;
   text-align: center;
 }
@@ -63,4 +65,57 @@ ul.icon li {
 li img {
   width: 10%;
   margin-right: 20px;
+  cursor: pointer;
 }
+.block_footer {
+  display: block;
+  /* margin: 20px; */
+  height: auto;
+}
+.footer {
+  display: flex;
+  margin: 20px;
+  vertical-align: bottom;
+}
+.year {
+  /* display: inline-block; */
+  margin-right: 20px;
+  font-weight: 900;
+}
+.git {
+  /* display: inline-block; */
+  margin-right: 20px;
+}
+.git a {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+  cursor: pointer;
+}
+.rs {
+  /* display: inline-block; */
+  width: 100px;
+}
+/* .block_footer a {
+  text-decoration: none;
+  color: black;
+}
+.block_footer img {
+  display: inline-block;
+  padding-left: 50px;
+  margin-left: auto; 
+}*/
+
+/* #block_right {
+  display: inline-block;
+  float: right;
+  width: 100px;
+  height: 150px;
+}
+#git {
+  /* display: block; */
+/* padding-right: 10px;
+}
+#rs { */
+/* display: block; */
+/* } */
