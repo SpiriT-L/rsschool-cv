@@ -6,7 +6,7 @@
 - City Minsk
 - st. Karolinskaya 14-33
 - Phone +375 25 718-10-12
-- E-mail:
+- E-mail: lmatskevich79@gmail.com
 
 ## Summary
 
@@ -16,6 +16,8 @@ At this stage of my life, I set myself the task of becoming a professional front
 
 - html
 - css
+- scss
+- sass
 - php
 - JavaScript
 - Git
@@ -24,6 +26,12 @@ At this stage of my life, I set myself the task of becoming a professional front
 
 [GitHub](https://github.com/SpiriT-L 'GitHub')
 
+## Work experience
+
+[John CV](https://spirit-l.github.io/John/ 'John CV')
+
+[MoGo](https://spirit-l.github.io/mogo/mogo/index.html 'MoGo')
+
 ## Experince and education
 
 - Minsk Institute of Management (Minsk Innovation University) - Economics and Management
@@ -31,6 +39,7 @@ At this stage of my life, I set myself the task of becoming a professional front
 ## Courses:
 
 - Rolling-Scopes-School - JavaScript Development 2021q1
+- Rolling-Scopes-School - JS/FE Pre-School 2021
 
 ## English
 
