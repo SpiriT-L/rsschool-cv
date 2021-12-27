@@ -50,3 +50,8 @@ At this stage of my life, I set myself the task of becoming a professional front
 - Rolling-Scopes-School - [JS/FE Pre-School](https://app.rs.school/certificate/6ftfa8sa 'JS/FE Pre-School') 2021
 - Rolling-Scopes-School - JavaScript Development 2021q1 stage1
 
+## Language
+
+- Belarussian native
+- Russian
+- English - A1
