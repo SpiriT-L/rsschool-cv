@@ -44,3 +44,9 @@ At this stage of my life, I set myself the task of becoming a professional front
 
 - Minsk Institute of Management (Minsk Innovation University) - Economics and Management
 
+## Courses:
+
+- Rolling-Scopes-School - JavaScript Development 2021q3 stage1
+- Rolling-Scopes-School - [JS/FE Pre-School](https://app.rs.school/certificate/6ftfa8sa 'JS/FE Pre-School') 2021
+- Rolling-Scopes-School - JavaScript Development 2021q1 stage1
+
