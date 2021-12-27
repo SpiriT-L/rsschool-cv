@@ -34,3 +34,9 @@ At this stage of my life, I set myself the task of becoming a professional front
     return name.slice(0,3)
     }
 
+## Work experience
+
+[John CV](https://spirit-l.github.io/John/ 'John CV')
+
+[MoGo](https://spirit-l.github.io/mogo/mogo/index.html 'MoGo')
+
