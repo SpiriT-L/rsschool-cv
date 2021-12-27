@@ -40,3 +40,7 @@ At this stage of my life, I set myself the task of becoming a professional front
 
 [MoGo](https://spirit-l.github.io/mogo/mogo/index.html 'MoGo')
 
+## Experince and education
+
+- Minsk Institute of Management (Minsk Innovation University) - Economics and Management
+
