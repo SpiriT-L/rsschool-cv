@@ -575,3 +575,34 @@ li img {
   border-width: 0;
   outline-width: 0;
 }
+
+.footer {
+  display: flex;
+  margin: 20px;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.year {
+  /* display: inline-block; */
+  margin-right: 20px;
+  font-weight: 900;
+}
+
+.git {
+  /* display: inline-block; */
+  margin-right: 20px;
+}
+
+.git a {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.rs {
+  /* display: inline-block; */
+  width: 100px;
+}
