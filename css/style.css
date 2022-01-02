@@ -495,3 +495,24 @@ body._touch .icon > li._active .menu__arrow {
 .section_name {
   display: none;
 }
+
+.block-icon {
+  flex-direction: row;
+  text-align: center;
+}
+
+ul.icon {
+  margin: 0;
+  padding: 0;
+}
+
+ul.icon li {
+  display: inline;
+  list-style: none;
+}
+
+li img {
+  width: 10%;
+  margin-right: 20px;
+  cursor: pointer;
+}
