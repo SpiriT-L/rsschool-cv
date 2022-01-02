@@ -477,3 +477,21 @@ body._touch .icon > li._active .menu__arrow {
   padding-left: 10px;
   margin-bottom: 20px;
 }
+
+.main {
+  width: 660px;
+  padding-top: 50px;
+}
+@media (max-width: 768px) {
+  .main {
+    width: 100%;
+  }
+}
+
+.section {
+  margin-bottom: 50px;
+}
+
+.section_name {
+  display: none;
+}
