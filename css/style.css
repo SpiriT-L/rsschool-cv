@@ -516,3 +516,19 @@ li img {
   margin-right: 20px;
   cursor: pointer;
 }
+
+.code {
+  margin: 0 auto;
+  border: solid 1px #333;
+  background-color: #fafafa;
+  height: 190px;
+  overflow-y: scroll;
+  white-space: pre;
+  overflow-x: auto;
+  width: 600px;
+}
+@media (max-width: 576px) {
+  .code {
+    width: 100%;
+  }
+}
